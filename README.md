@@ -7,3 +7,5 @@ nvidia-smi
 ## Tutorial
 https://www.simplilearn.com/tutorials/deep-learning-tutorial/tensorflow
 
+https://github.com/https-deeplearning-ai/tensorflow-1-public/tree/main/C1/W3
+
